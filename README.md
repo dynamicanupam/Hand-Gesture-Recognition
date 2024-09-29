@@ -1,4 +1,6 @@
 # Gesture Recognition
+> Make a Smart TV system which can control the TV with user’s hand gestures as the remote control.
+---
 Gesture recognition using Deep Learning Models
 1. Conv3D
 2. CNN with LSTM
